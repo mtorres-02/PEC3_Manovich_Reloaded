@@ -1,8 +1,11 @@
 # PEC3: Visionando el futuro con las gafas de Manovich
 
 **Autor:** Marta Torres Barajas
+
 **Asignatura:** Cultura Digital
+
 Grado en Multimedia – UOC
+
 **Fecha:** 16/05/2025
 
 ![enter image description here](https://cdn.pixabay.com/photo/2018/10/19/10/43/social-media-3758364_1280.jpg)
